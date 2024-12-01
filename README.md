@@ -12,10 +12,11 @@ following command:
 ```bash
 $ pytest
 ```
-
-How to runnnnnnn
+okay 
+let's go to the next session
+That's amazing
 
 how to read a file of python in vscode
 
-check the git status -s command
+check the git status -s 
 gitignore is learnt
