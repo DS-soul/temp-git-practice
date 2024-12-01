@@ -7,9 +7,13 @@
 # unmodified
 
 ## How to test
+To run the test, run the 
+following command:
+```bash
+$ pytest
+```
 
-> another test version
-> commit
+
 
 how to read a file of python in vscode
 
