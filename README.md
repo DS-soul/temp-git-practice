@@ -12,3 +12,5 @@
 > commit
 
 how to read a file of python in vscode
+
+check the git status -s command
