@@ -3,7 +3,7 @@ from utils import add, sub, mul
 
 print('hello world!')
 def main():
-    print('Mahdi Moushekhian')
+    print('Mahdi')
 
 if __name__ == '__main__':
     main()
