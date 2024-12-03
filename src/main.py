@@ -1,7 +1,7 @@
 import numpy as np
 from utils import add, opps
 
-def test():
-    return 'test'
+print(add(4, 5))
+print(opps(3, 4))
 
-assert test() == 'test'
+# nothing
