@@ -24,5 +24,14 @@ def div(a, b):
     """division two numbers"""
     return a / b
 
+def power(a, b):
+    """power of number
+
+    :param a: base number
+    :param b: power of base number
+    :return: a power b
+    """
+    return a ** b
+
 # this is a comment for test token
 # this is another test
