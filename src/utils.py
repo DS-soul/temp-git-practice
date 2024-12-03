@@ -1,13 +1,27 @@
 def add(a, b):
+    """add two number
+
+    :param a: int
+    :param b: int
+    :return: sum of a and b
+    """
     return a + b
 
 def sub(a, b):
+    """subtraction of two number
+
+    :param a: int
+    :param b: int
+    :return: sub of a and b
+    """
     return a - b
 
 def mul(a, b):
+    """multipies two numbers"""
     return a * b
 
 def div(a, b):
+    """division two numbers"""
     return a / b
 
 # this is a comment for test token
