@@ -1,9 +1,11 @@
 import numpy as np
-from utils import add, sub, mul
+from utils import add, sub, mul, power, div, sqrut
 
-print('hello world!')
+# Add more funcs
+
 def main():
     print('Mahdi')
 
 if __name__ == '__main__':
     main()
+    print(add(3, 4))
