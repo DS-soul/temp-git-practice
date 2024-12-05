@@ -32,6 +32,13 @@ def power(a, b):
     :return: a power b
     """
     return a ** b
-# Nice work man!
+def sqrut (a):
+    """squrt of a
+
+    :param a: input int
+    :return: squrt a
+    """
+    return a ** 0.5
+
 # this is a comment for test token
 # this is another test
