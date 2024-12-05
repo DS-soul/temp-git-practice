@@ -32,6 +32,6 @@ def power(a, b):
     :return: a power b
     """
     return a ** b
-
+# Nice work man!
 # this is a comment for test token
 # this is another test
